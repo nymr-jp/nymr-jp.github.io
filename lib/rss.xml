@@ -1,5 +1,13 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[nymr's notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://nymr-jp.github.io/</link><image><url>https://nymr-jp.github.io/lib/media/favicon.svg</url><title>nymr's notes</title><link>https://nymr-jp.github.io/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 03 Jul 2024 07:37:59 GMT</lastBuildDate><atom:link href="https://nymr-jp.github.io/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 03 Jul 2024 07:37:58 GMT</pubDate><copyright><![CDATA[nymr]]></copyright><ttl>60</ttl><dc:creator>nymr</dc:creator><item><title><![CDATA[引越しのために考えるべきこと]]></title><description><![CDATA[<br>
-<br>洗濯 <br>被服学 <br>冷蔵庫・冷凍庫 <br>？ <br>本棚 <br>？ <br>回線 <br>？ ]]></description><link>https://nymr-jp.github.io/引越しのために考えるべきこと.html</link><guid isPermaLink="false">引越しのために考えるべきこと.md</guid><dc:creator><![CDATA[nymr]]></dc:creator><pubDate>Wed, 03 Jul 2024 07:33:24 GMT</pubDate></item><item><title><![CDATA[Nymrとは]]></title><description><![CDATA[<br>nymrは本名から子音を抜き取ったもので、特別意味はない<br>経歴<br>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[nymr's notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://nymr-jp.github.io/</link><image><url>https://nymr-jp.github.io/lib/media/favicon.svg</url><title>nymr's notes</title><link>https://nymr-jp.github.io/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 05 Jul 2024 10:41:23 GMT</lastBuildDate><atom:link href="https://nymr-jp.github.io/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 05 Jul 2024 10:41:23 GMT</pubDate><copyright><![CDATA[nymr]]></copyright><ttl>60</ttl><dc:creator>nymr</dc:creator><item><title><![CDATA[失敗アジャイル開発事例]]></title><description><![CDATA[<br>問題<br>
+<br>意思決定者が忙しく、週に4時間程度しか時間が取れないが、権限移譲がなされていない
+<br>スプリント毎に提供する価値が定義されていない
+<br>最終スプリントを迎えてもフロントエンドとバックエンドの疎通はできていない
+<br>人数は多いが、チーム毎にサイロ化が進み、全員が困惑している
+<br>ミーティングが多く作業時間が確保できていない
+<br>感想・対策<br>
+<br>カーゴカルト・アジャイルと言わざるを得ない <br>アジャイル開発宣言にも、動くソフトウェアに重きを置くと示されているが、最終スプリントでも動いているとは言えない状態
+<br>サイロ化が進み、個人との対話についても欠けているのではないか <br>アジャイル開発をやめる選択肢がベターだった <br>即断即決できる状態ではなかったので、計画修正時に、認可待ちの時間が無駄に嵩んだという認識
+<br>他の会社が並行して既存システムに対する開発を行なっていたのもあり、チーム間で足並みを揃えるのは不可能だった可能性も高い ]]></description><link>https://nymr-jp.github.io/失敗アジャイル開発事例.html</link><guid isPermaLink="false">失敗アジャイル開発事例.md</guid><dc:creator><![CDATA[nymr]]></dc:creator><pubDate>Fri, 05 Jul 2024 10:40:46 GMT</pubDate></item><item><title><![CDATA[Nymrとは]]></title><description><![CDATA[<br>nymrは本名から子音を抜き取ったもので、特別意味はない<br>経歴<br>
 <br>自由を謳う大学で、辛うじて数学(より正確には理学学士)・情報学(修士)を取得
 <br>誘われるがままに重厚長大産業の某企業に勤めるも肌に合わず逃げ出す
 <br>ITスタートアップで社会復帰
